@@ -1,14 +1,14 @@
-# Hola, soy Fran 👋
+# Hola, soy Franco Abasto
 
 Desarrollador Full Stack enfocado en backend con **C# / .NET** y **Node.js**.
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,cs,dotnet,python,postgres,docker,linux&perline=10" />
 </p>
 
-### 📂 Stack
+### Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -22,12 +22,12 @@ Desarrollador Full Stack enfocado en backend con **C# / .NET** y **Node.js**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📫 Contacto
+### Contacto
 
-- 📧 contactoneuraltech@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-abastofranco7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abastofranco7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco_Abasto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-abasto/)
 
-### 📊 Estadísticas
+### Estadísticas
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Frann7&show_icons=true&theme=tokyonight" />
