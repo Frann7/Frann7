@@ -9,7 +9,7 @@
 ### Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,cs,dotnet,python,postgres,docker,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,cs,dotnet,python,mysql,postgres,docker,linux&perline=11" />
 </p>
 
 ### Stack
@@ -22,6 +22,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
